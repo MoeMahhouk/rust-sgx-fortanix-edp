@@ -1,0 +1,6 @@
+[enclave]
+heap_pages = 64
+stack_pages = 4
+min_heap_size = 0
+min_stack_size = 0
+tcs_num = 2
